@@ -1,0 +1,12 @@
+.container__menu-title > h1{
+  font-size: 800%;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+}
+
+.container__menu-title > hr {
+  border-color: rgb(56, 54, 54);
+  margin-top: 5px;
+  margin-bottom: 5px;
+}

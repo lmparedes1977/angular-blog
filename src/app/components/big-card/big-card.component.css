@@ -1,0 +1,26 @@
+.big-card__photo > img{
+
+  width: 100%;
+  min-width: 370px;
+}
+
+.container__big-card {
+  margin: 10px;
+  padding-left: 2px;
+  padding-right: 2px;
+  width: 400px;
+}
+
+.big-card__description > p {
+  color: gray;
+}
+
+.big-card__title > h3 {
+  color: lightgray;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.big-card__title > h3 > a {
+  text-decoration: none;
+}
