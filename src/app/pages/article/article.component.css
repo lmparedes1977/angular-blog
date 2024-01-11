@@ -1,0 +1,40 @@
+.container__article {
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+
+}
+
+.article__image > img {
+  width: 100%;
+  margin-top: 15px;
+  border: solid 3px darkgray;
+  min-width: 800px;
+  min-height: 600px;
+}
+
+.article__content > p {
+  margin-top: 15px;
+}
+
+.article__title {
+  margin-top: 15px;
+}
+
+hr{
+  border-color: darkgray;
+}
+
+.article__button {
+  margin: 15px 15px;
+}
+
+.article__button > a {
+  background-color: rgb(85, 84, 84);
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
